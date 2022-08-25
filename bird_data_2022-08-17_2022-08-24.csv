@@ -1,0 +1,234 @@
+,speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+0,cowscj1,California Scrub-Jay,Aphelocoma californica,L16598980,Wattles Garden Park,2022-08-24 08:37,1.0,34.1051399,-118.3547761,True,False,False,S117490254
+1,caltow,California Towhee,Melozone crissalis,L16598980,Wattles Garden Park,2022-08-24 08:37,2.0,34.1051399,-118.3547761,True,False,False,S117490254
+2,moudov,Mourning Dove,Zenaida macroura,L16598980,Wattles Garden Park,2022-08-24 08:37,1.0,34.1051399,-118.3547761,True,False,False,S117490254
+3,normoc,Northern Mockingbird,Mimus polyglottos,L16598980,Wattles Garden Park,2022-08-24 08:37,4.0,34.1051399,-118.3547761,True,False,False,S117490254
+4,rethaw,Red-tailed Hawk,Buteo jamaicensis,L16598980,Wattles Garden Park,2022-08-24 08:37,1.0,34.1051399,-118.3547761,True,False,False,S117490254
+5,houfin,House Finch,Haemorhous mexicanus,L16598980,Wattles Garden Park,2022-08-24 08:37,6.0,34.1051399,-118.3547761,True,False,False,S117490254
+6,comrav,Common Raven,Corvus corax,L16598980,Wattles Garden Park,2022-08-24 08:37,2.0,34.1051399,-118.3547761,True,False,False,S117490254
+7,allhum,Allen's Hummingbird,Selasphorus sasin,L16598980,Wattles Garden Park,2022-08-24 08:37,2.0,34.1051399,-118.3547761,True,False,False,S117490254
+8,spotow,Spotted Towhee,Pipilo maculatus,L16598980,Wattles Garden Park,2022-08-24 08:37,1.0,34.1051399,-118.3547761,True,False,False,S117490254
+9,blkpho,Black Phoebe,Sayornis nigricans,L16598980,Wattles Garden Park,2022-08-24 08:37,1.0,34.1051399,-118.3547761,True,False,False,S117490254
+10,wesgul,Western Gull,Larus occidentalis,L7732526,Deforest Wetlands--S end of Deforest Park to Del Amo,2022-08-24 08:04,1.0,33.8601864,-118.196926,True,False,False,S117489419
+11,bushti,Bushtit,Psaltriparus minimus,L7732526,Deforest Wetlands--S end of Deforest Park to Del Amo,2022-08-24 08:04,1.0,33.8601864,-118.196926,True,False,False,S117489419
+12,eursta,European Starling,Sturnus vulgaris,L7732526,Deforest Wetlands--S end of Deforest Park to Del Amo,2022-08-24 08:04,20.0,33.8601864,-118.196926,True,False,False,S117489419
+13,houwre,House Wren,Troglodytes aedon,L7732526,Deforest Wetlands--S end of Deforest Park to Del Amo,2022-08-24 08:04,1.0,33.8601864,-118.196926,True,False,False,S117489419
+14,lesgol,Lesser Goldfinch,Spinus psaltria,L7732526,Deforest Wetlands--S end of Deforest Park to Del Amo,2022-08-24 08:04,1.0,33.8601864,-118.196926,True,False,False,S117489419
+15,nutman,Scaly-breasted Munia,Lonchura punctulata,L7732526,Deforest Wetlands--S end of Deforest Park to Del Amo,2022-08-24 08:04,1.0,33.8601864,-118.196926,True,False,False,S117489419
+16,rocpig,Rock Pigeon,Columba livia,L7732526,Deforest Wetlands--S end of Deforest Park to Del Amo,2022-08-24 08:04,18.0,33.8601864,-118.196926,True,False,False,S117489419
+17,acowoo,Acorn Woodpecker,Melanerpes formicivorus,L14881383,Maple Hill Park,2022-08-24 07:53,1.0,33.996274,-117.826327,True,False,True,S117486822
+18,amecro,American Crow,Corvus brachyrhynchos,L16239800,"3207 Grandeur Ave, Altadena US-CA 34.19984, -118.15147",2022-08-24 07:52,25.0,34.199837,-118.151466,True,False,True,S117488291
+19,houspa,House Sparrow,Passer domesticus,L16239800,"3207 Grandeur Ave, Altadena US-CA 34.19984, -118.15147",2022-08-24 07:52,1.0,34.199837,-118.151466,True,False,True,S117488291
+20,batpig1,Band-tailed Pigeon,Patagioenas fasciata,L16239800,"3207 Grandeur Ave, Altadena US-CA 34.19984, -118.15147",2022-08-24 07:52,2.0,34.199837,-118.151466,True,False,True,S117488291
+21,recpar,Red-crowned Parrot,Amazona viridigenalis,L16239800,"3207 Grandeur Ave, Altadena US-CA 34.19984, -118.15147",2022-08-24 07:52,5.0,34.199837,-118.151466,True,False,True,S117488291
+22,cangoo,Canada Goose,Branta canadensis,L197811,Brookside Park,2022-08-24 07:42,3.0,34.1533751,-118.1654155,True,False,False,S117490427
+23,oaktit,Oak Titmouse,Baeolophus inornatus,L197811,Brookside Park,2022-08-24 07:42,3.0,34.1533751,-118.1654155,True,False,False,S117490427
+24,killde,Killdeer,Charadrius vociferus,L197811,Brookside Park,2022-08-24 07:42,8.0,34.1533751,-118.1654155,True,False,False,S117490427
+25,wewpew,Western Wood-Pewee,Contopus sordidulus,L197811,Brookside Park,2022-08-24 07:42,1.0,34.1533751,-118.1654155,True,False,False,S117490427
+26,larspa,Lark Sparrow,Chondestes grammacus,L197811,Brookside Park,2022-08-24 07:42,3.0,34.1533751,-118.1654155,True,False,False,S117490427
+27,daejun,Dark-eyed Junco,Junco hyemalis,L197811,Brookside Park,2022-08-24 07:42,11.0,34.1533751,-118.1654155,True,False,False,S117490427
+28,brebla,Brewer's Blackbird,Euphagus cyanocephalus,L197811,Brookside Park,2022-08-24 07:42,21.0,34.1533751,-118.1654155,True,False,False,S117490427
+29,caskin,Cassin's Kingbird,Tyrannus vociferans,L197811,Brookside Park,2022-08-24 07:42,1.0,34.1533751,-118.1654155,True,False,False,S117490427
+30,wesblu,Western Bluebird,Sialia mexicana,L197811,Brookside Park,2022-08-24 07:42,10.0,34.1533751,-118.1654155,True,False,False,S117490427
+31,annhum,Anna's Hummingbird,Calypte anna,L16450025,"CSULB - College of Business, Associated Student Union, Molecular & Life Sciences, Center, Hall of Science",2022-08-24 07:21,2.0,33.782735,-118.115231,True,False,True,S117486041
+32,reshaw,Red-shouldered Hawk,Buteo lineatus,L16450025,"CSULB - College of Business, Associated Student Union, Molecular & Life Sciences, Center, Hall of Science",2022-08-24 07:21,1.0,33.782735,-118.115231,True,False,True,S117486041
+33,mitpar,Mitred Parakeet,Psittacara mitratus,L16450025,"CSULB - College of Business, Associated Student Union, Molecular & Life Sciences, Center, Hall of Science",2022-08-24 07:21,30.0,33.782735,-118.115231,True,False,True,S117486041
+34,rewbul,Red-whiskered Bulbul,Pycnonotus jocosus,L9869221,Beverly Hills HH,2022-08-24 06:44,1.0,34.082452,-118.391441,True,False,True,S117484927
+35,bewwre,Bewick's Wren,Thryomanes bewickii,L9869221,Beverly Hills HH,2022-08-24 06:44,1.0,34.082452,-118.391441,True,False,True,S117484927
+36,orcwar,Orange-crowned Warbler,Leiothlypis celata,L9869221,Beverly Hills HH,2022-08-24 06:44,1.0,34.082452,-118.391441,True,False,True,S117484927
+37,sonspa,Song Sparrow,Melospiza melodia,L9869221,Beverly Hills HH,2022-08-24 06:44,3.0,34.082452,-118.391441,True,False,True,S117484927
+38,bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L17336404,"2744 West Avenue O4, Palmdale, CA",2022-08-24 06:35,1.0,34.612284,-118.1803844,True,False,True,S117483032
+39,hooori,Hooded Oriole,Icterus cucullatus,L17336404,"2744 West Avenue O4, Palmdale, CA",2022-08-24 06:35,1.0,34.612284,-118.1803844,True,False,True,S117483032
+40,verdin,Verdin,Auriparus flaviceps,L17336404,"2744 West Avenue O4, Palmdale, CA",2022-08-24 06:35,2.0,34.612284,-118.1803844,True,False,True,S117483032
+41,yelwar,Yellow Warbler,Setophaga petechia,L18665380,210 Oberlin-Home,2022-08-24 06:24,1.0,34.09588,-117.720727,True,False,True,S117482697
+42,eucdov,Eurasian Collared-Dove,Streptopelia decaocto,L3280075,Virginia Country Club--Rancho Los Cerritos Historic Site,2022-08-24 06:09,1.0,33.8392735,-118.1956172,True,False,False,S117484388
+43,mallar3,Mallard,Anas platyrhynchos,L3280075,Virginia Country Club--Rancho Los Cerritos Historic Site,2022-08-24 06:09,7.0,33.8392735,-118.1956172,True,False,False,S117484388
+44,grhowl,Great Horned Owl,Bubo virginianus,L18290614,"Nob Hill/Frieda Dr Loop, Los Angeles US-CA (34.1129,-118.2155)",2022-08-24 05:51,1.0,34.112916,-118.215479,True,False,True,S117482372
+45,compoo,Common Poorwill,Phalaenoptilus nuttallii,L696156,Topanga--Hillside Dr.,2022-08-24 05:50,3.0,34.1065901,-118.5963956,True,False,False,S117480687
+46,wesowl1,Western Screech-Owl,Megascops kennicottii,L2854658,Home,2022-08-24 05:50,2.0,34.1022406,-118.2250223,True,False,True,S117481072
+47,coohaw,Cooper's Hawk,Accipiter cooperii,L3083535,Esperanza Elementary School,2022-08-23 19:22,1.0,34.0548202,-118.2722211,True,False,False,S117471182
+48,doccor,Double-crested Cormorant,Nannopterum auritum,L619767,Echo Park,2022-08-23 19:06,15.0,34.0743105,-118.2607627,True,False,False,S117470306
+49,bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,L619767,Echo Park,2022-08-23 19:06,17.0,34.0743105,-118.2607627,True,False,False,S117470306
+50,pibgre,Pied-billed Grebe,Podilymbus podiceps,L619767,Echo Park,2022-08-23 19:06,1.0,34.0743105,-118.2607627,True,False,False,S117470306
+51,y00475,American Coot,Fulica americana,L619767,Echo Park,2022-08-23 19:06,16.0,34.0743105,-118.2607627,True,False,False,S117470306
+52,grnher,Green Heron,Butorides virescens,L619767,Echo Park,2022-08-23 19:06,1.0,34.0743105,-118.2607627,True,False,False,S117470306
+53,grtgra,Great-tailed Grackle,Quiscalus mexicanus,L619767,Echo Park,2022-08-23 19:06,25.0,34.0743105,-118.2607627,True,False,False,S117470306
+54,greegr,Great Egret,Ardea alba,L152149,Bette Davis Picnic Area,2022-08-23 18:17,1.0,34.1576843,-118.2978616,True,False,False,S117470421
+55,bknsti,Black-necked Stilt,Himantopus mexicanus,L152149,Bette Davis Picnic Area,2022-08-23 18:17,24.0,34.1576843,-118.2978616,True,False,False,S117470421
+56,towwar,Townsend's Warbler,Setophaga townsendi,L152149,Bette Davis Picnic Area,2022-08-23 18:17,1.0,34.1576843,-118.2978616,True,False,False,S117470421
+57,sposan,Spotted Sandpiper,Actitis macularius,L152149,Bette Davis Picnic Area,2022-08-23 18:17,1.0,34.1576843,-118.2978616,True,False,False,S117470421
+58,snoegr,Snowy Egret,Egretta thula,L152149,Bette Davis Picnic Area,2022-08-23 18:17,1.0,34.1576843,-118.2978616,True,False,False,S117470421
+59,grbher3,Great Blue Heron,Ardea herodias,L152149,Bette Davis Picnic Area,2022-08-23 18:17,1.0,34.1576843,-118.2978616,True,False,False,S117470421
+60,nutwoo,Nuttall's Woodpecker,Dryobates nuttallii,L152149,Bette Davis Picnic Area,2022-08-23 18:17,1.0,34.1576843,-118.2978616,True,False,False,S117470421
+61,leasan,Least Sandpiper,Calidris minutilla,L152149,Bette Davis Picnic Area,2022-08-23 18:17,12.0,34.1576843,-118.2978616,True,False,False,S117470421
+62,licpar,Lilac-crowned Parrot,Amazona finschi,L12820928,Highland park homes,2022-08-23 17:56,2.0,34.1132985,-118.1947996,True,False,True,S117469855
+63,yehpar,Yellow-headed Parrot,Amazona oratrix,L12820928,Highland park homes,2022-08-23 17:56,6.0,34.1132985,-118.1947996,True,False,True,S117469855
+64,barswa,Barn Swallow,Hirundo rustica,L4861223,Los Angeles River--134 Fwy,2022-08-23 17:52,40.0,34.1517681,-118.2792163,True,False,False,S117467710
+65,perfal,Peregrine Falcon,Falco peregrinus,L4861223,Los Angeles River--134 Fwy,2022-08-23 17:52,1.0,34.1517681,-118.2792163,True,False,False,S117467710
+66,baisan,Baird's Sandpiper,Calidris bairdii,L4861223,Los Angeles River--134 Fwy,2022-08-23 17:52,1.0,34.1517681,-118.2792163,True,False,False,S117467710
+67,lesyel,Lesser Yellowlegs,Tringa flavipes,L4861223,Los Angeles River--134 Fwy,2022-08-23 17:52,1.0,34.1517681,-118.2792163,True,False,False,S117467710
+68,wessan,Western Sandpiper,Calidris mauri,L4861223,Los Angeles River--134 Fwy,2022-08-23 17:52,2.0,34.1517681,-118.2792163,True,False,False,S117467710
+69,greyel,Greater Yellowlegs,Tringa melanoleuca,L4861223,Los Angeles River--134 Fwy,2022-08-23 17:52,7.0,34.1517681,-118.2792163,True,False,False,S117467710
+70,stejay,Steller's Jay,Cyanocitta stelleri,L228765,Grassy Hollow,2022-08-23 17:45,2.0,34.3750152,-117.7210122,True,False,False,S117473954
+71,mouchi,Mountain Chickadee,Poecile gambeli,L228765,Grassy Hollow,2022-08-23 17:45,5.0,34.3750152,-117.7210122,True,False,False,S117473954
+72,olsfly,Olive-sided Flycatcher,Contopus cooperi,L228765,Grassy Hollow,2022-08-23 17:45,1.0,34.3750152,-117.7210122,True,False,False,S117473954
+73,brncre,Brown Creeper,Certhia americana,L228765,Grassy Hollow,2022-08-23 17:45,1.0,34.3750152,-117.7210122,True,False,False,S117473954
+74,whbnut,White-breasted Nuthatch,Sitta carolinensis,L867224,Dodger Stadium,2022-08-23 16:57,1.0,34.0734218,-118.2402706,True,False,False,S117466435
+75,buggna,Blue-gray Gnatcatcher,Polioptila caerulea,L2123262,Griffith Park--Fern Dell,2022-08-23 16:44,1.0,34.1092462,-118.3076477,True,False,False,S117467423
+76,amerob,American Robin,Turdus migratorius,L2123262,Griffith Park--Fern Dell,2022-08-23 16:44,1.0,34.1092462,-118.3076477,True,False,False,S117467423
+77,wrenti,Wrentit,Chamaea fasciata,L2123262,Griffith Park--Fern Dell,2022-08-23 16:44,2.0,34.1092462,-118.3076477,True,False,False,S117467423
+78,heegul,Heermann's Gull,Larus heermanni,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,10.0,34.0333857,-118.6822987,True,False,False,S117469299
+79,sander,Sanderling,Calidris alba,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,5.0,34.0333857,-118.6822987,True,False,False,S117469299
+80,semplo,Semipalmated Plover,Charadrius semipalmatus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,2.0,34.0333857,-118.6822987,True,False,False,S117469299
+81,calgul,California Gull,Larus californicus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,26.0,34.0333857,-118.6822987,True,False,False,S117469299
+82,shbdow,Short-billed Dowitcher,Limnodromus griseus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,4.0,34.0333857,-118.6822987,True,False,False,S117469299
+83,snoplo5,Snowy Plover,Charadrius nivosus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,28.0,34.0333857,-118.6822987,True,False,False,S117469299
+84,renpha,Red-necked Phalarope,Phalaropus lobatus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,2.0,34.0333857,-118.6822987,True,False,False,S117469299
+85,comyel,Common Yellowthroat,Geothlypis trichas,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,3.0,34.0333857,-118.6822987,True,False,False,S117469299
+86,brnpel,Brown Pelican,Pelecanus occidentalis,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,250.0,34.0333857,-118.6822987,True,False,False,S117469299
+87,eleter1,Elegant Tern,Thalasseus elegans,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,400.0,34.0333857,-118.6822987,True,False,False,S117469299
+88,osprey,Osprey,Pandion haliaetus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,1.0,34.0333857,-118.6822987,True,False,False,S117469299
+89,gadwal,Gadwall,Mareca strepera,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,41.0,34.0333857,-118.6822987,True,False,False,S117469299
+90,margod,Marbled Godwit,Limosa fedoa,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,12.0,34.0333857,-118.6822987,True,False,False,S117469299
+91,bkbplo,Black-bellied Plover,Pluvialis squatarola,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,69.0,34.0333857,-118.6822987,True,False,False,S117469299
+92,whimbr,Whimbrel,Numenius phaeopus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,26.0,34.0333857,-118.6822987,True,False,False,S117469299
+93,royter1,Royal Tern,Thalasseus maximus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,3.0,34.0333857,-118.6822987,True,False,False,S117469299
+94,willet1,Willet,Tringa semipalmata,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,27.0,34.0333857,-118.6822987,True,False,False,S117469299
+95,wilpha,Wilson's Phalarope,Phalaropus tricolor,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,1.0,34.0333857,-118.6822987,True,False,False,S117469299
+96,nrwswa,Northern Rough-winged Swallow,Stelgidopteryx serripennis,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,7.0,34.0333857,-118.6822987,True,False,False,S117469299
+97,caster1,Caspian Tern,Hydroprogne caspia,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,2.0,34.0333857,-118.6822987,True,False,False,S117469299
+98,rudtur,Ruddy Turnstone,Arenaria interpres,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-23 16:10,1.0,34.0333857,-118.6822987,True,False,False,S117469299
+99,sooshe,Sooty Shearwater,Ardenna grisea,L132175,San Clemente Island--West Cove Pt.,2022-08-23 16:02,1.0,33.0153275,-118.6061783,True,False,False,S117465467
+100,bkvshe,Black-vented Shearwater,Puffinus opisthomelas,L132175,San Clemente Island--West Cove Pt.,2022-08-23 16:02,1.0,33.0153275,-118.6061783,True,True,False,S117465467
+101,bracor,Brandt's Cormorant,Urile penicillatus,L132175,San Clemente Island--West Cove Pt.,2022-08-23 16:02,30.0,33.0153275,-118.6061783,True,False,False,S117465467
+102,horlar,Horned Lark,Eremophila alpestris,L132175,San Clemente Island--West Cove Pt.,2022-08-23 16:02,2.0,33.0153275,-118.6061783,True,False,False,S117465467
+103,wlswar,Wilson's Warbler,Cardellina pusilla,L5213678,Fay Yard,2022-08-23 15:05,4.0,33.7720688,-118.392582,True,False,True,S117460496
+104,pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L19377651,Sequit Creek,2022-08-23 13:32,1.0,34.043757,-118.742649,True,False,True,S117454523
+105,banswa,Bank Swallow,Riparia riparia,L19377651,Sequit Creek,2022-08-23 13:32,5.0,34.043757,-118.742649,True,False,True,S117454523
+106,calqua,California Quail,Callipepla californica,L19377651,Sequit Creek,2022-08-23 13:32,1.0,34.043757,-118.742649,True,False,True,S117454523
+107,norfli,Northern Flicker,Colaptes auratus,L228765,Grassy Hollow,2022-08-23 13:20,1.0,34.3750152,-117.7210122,True,False,False,S117473858
+108,pygnut,Pygmy Nuthatch,Sitta pygmaea,L228765,Grassy Hollow,2022-08-23 13:20,4.0,34.3750152,-117.7210122,True,False,False,S117473858
+109,whhwoo,White-headed Woodpecker,Dryobates albolarvatus,L228765,Grassy Hollow,2022-08-23 13:20,1.0,34.3750152,-117.7210122,True,False,False,S117473858
+110,neocor,Neotropic Cormorant,Nannopterum brasilianum,L194688,Sepulveda Basin--East of Woodley Ave,2022-08-23 12:36,1.0,34.1767221,-118.4737308,True,True,False,S117465197
+111,amwpel,American White Pelican,Pelecanus erythrorhynchos,L194688,Sepulveda Basin--East of Woodley Ave,2022-08-23 12:36,1.0,34.1767221,-118.4737308,True,False,False,S117465197
+112,turvul,Turkey Vulture,Cathartes aura,L194688,Sepulveda Basin--East of Woodley Ave,2022-08-23 12:36,5.0,34.1767221,-118.4737308,True,False,False,S117465197
+113,astfly,Ash-throated Flycatcher,Myiarchus cinerascens,L160935,Ballona Freshwater Marsh,2022-08-23 12:18,1.0,33.9701285,-118.4305573,True,False,False,S117453749
+114,rudduc,Ruddy Duck,Oxyura jamaicensis,L160935,Ballona Freshwater Marsh,2022-08-23 12:18,2.0,33.9701285,-118.4305573,True,False,False,S117453749
+115,swiwhe1,Swinhoe's White-eye,Zosterops simplex,L897615,CSU Long Beach,2022-08-23 12:10,4.0,33.782322,-118.120966,True,False,False,S117453461
+116,saypho,Say's Phoebe,Sayornis saya,L3121882,Entradero Park,2022-08-23 11:47,1.0,33.8536309,-118.3720636,True,False,False,S117450637
+117,yecpar,Yellow-chevroned Parakeet,Brotogeris chiriri,L619767,Echo Park,2022-08-23 10:55,5.0,34.0743105,-118.2607627,True,False,False,S117448032
+118,bnhcow,Brown-headed Cowbird,Molothrus ater,L759098,Pepperdine University ponds,2022-08-23 10:41,78.0,34.0367998,-118.7052584,True,False,False,S117448321
+119,haiwoo,Hairy Woodpecker,Dryobates villosus,L466092,Jackson Lake,2022-08-23 10:35,1.0,34.3923915,-117.7261019,True,False,False,S117448545
+120,yerwar,Yellow-rumped Warbler,Setophaga coronata,L466092,Jackson Lake,2022-08-23 10:35,10.0,34.3923915,-117.7261019,True,False,False,S117448545
+121,hutvir,Hutton's Vireo,Vireo huttoni,L1575401,Scripps College,2022-08-23 10:13,1.0,34.1040298,-117.7103668,True,False,False,S117445177
+122,amegfi,American Goldfinch,Spinus tristis,L1118116,Wardlow Park,2022-08-23 10:06,1.0,33.8204797,-118.1287766,True,False,False,S117447954
+123,btywar,Black-throated Gray Warbler,Setophaga nigrescens,L228765,Grassy Hollow,2022-08-23 10:05,2.0,34.3750152,-117.7210122,True,False,False,S117445791
+124,rewbla,Red-winged Blackbird,Agelaius phoeniceus,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,23.0,33.8048977,-118.2059383,True,False,False,S117470158
+125,buwtea,Blue-winged Teal,Spatula discors,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,4.0,33.8048977,-118.2059383,True,False,False,S117470158
+126,savspa,Savannah Sparrow,Passerculus sandwichensis,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,1.0,33.8048977,-118.2059383,True,False,False,S117470158
+127,lobdow,Long-billed Dowitcher,Limnodromus scolopaceus,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,12.0,33.8048977,-118.2059383,True,False,False,S117470158
+128,egygoo,Egyptian Goose,Alopochen aegyptiaca,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,5.0,33.8048977,-118.2059383,True,False,False,S117470158
+129,cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,1.0,33.8048977,-118.2059383,True,False,False,S117470158
+130,ameavo,American Avocet,Recurvirostra americana,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,24.0,33.8048977,-118.2059383,True,False,False,S117470158
+131,cintea,Cinnamon Teal,Spatula cyanoptera,L481023,Los Angeles River--Willow St.,2022-08-23 10:04,14.0,33.8048977,-118.2059383,True,False,False,S117470158
+132,calthr,California Thrasher,Toxostoma redivivum,L3364514,"Home, North Glendora",2022-08-23 10:01,2.0,34.1483741,-117.8805307,True,False,True,S117446597
+133,whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L8264995,Willow Springs Park,2022-08-23 09:37,1.0,33.8073199,-118.1779452,True,True,False,S117446220
+134,pitwhy,Pin-tailed Whydah,Vidua macroura,L8264995,Willow Springs Park,2022-08-23 09:37,1.0,33.8073199,-118.1779452,True,False,False,S117446220
+135,rucspa,Rufous-crowned Sparrow,Aimophila ruficeps,L6295594,Stough Canyon Nature Center,2022-08-23 09:30,3.0,34.213395,-118.306914,True,False,False,S117453534
+136,weskin,Western Kingbird,Tyrannus verticalis,L768273,Los Angeles River--Sepulveda Basin,2022-08-23 09:17,1.0,34.1694526,-118.4756184,True,False,False,S117447255
+137,logshr,Loggerhead Shrike,Lanius ludovicianus,L768273,Los Angeles River--Sepulveda Basin,2022-08-23 09:17,1.0,34.1694526,-118.4756184,True,False,False,S117447255
+138,whfibi,White-faced Ibis,Plegadis chihi,L768273,Los Angeles River--Sepulveda Basin,2022-08-23 09:17,1.0,34.1694526,-118.4756184,True,False,False,S117447255
+139,lazbun,Lazuli Bunting,Passerina amoena,L768273,Los Angeles River--Sepulveda Basin,2022-08-23 09:17,1.0,34.1694526,-118.4756184,True,False,False,S117447255
+140,belspa2,Bell's Sparrow,Artemisiospiza belli,L469058,Apollo Park,2022-08-23 08:57,8.0,34.7421591,-118.2011104,True,False,False,S117470531
+141,cacgoo1,Cackling Goose,Branta hutchinsii,L469058,Apollo Park,2022-08-23 08:57,1.0,34.7421591,-118.2011104,True,False,False,S117470531
+142,snogoo,Snow Goose,Anser caerulescens,L469058,Apollo Park,2022-08-23 08:57,1.0,34.7421591,-118.2011104,True,False,False,S117470531
+143,blktur,Black Turnstone,Arenaria melanocephala,L13303655,"Royal Palms State Beach, Los Angeles US-CA 33.71586, -118.31935",2022-08-23 08:55,18.0,33.715861,-118.319348,True,False,True,S117442900
+144,blkoys,Black Oystercatcher,Haematopus bachmani,L13303655,"Royal Palms State Beach, Los Angeles US-CA 33.71586, -118.31935",2022-08-23 08:55,3.0,33.715861,-118.319348,True,False,True,S117442900
+145,belkin1,Belted Kingfisher,Megaceryle alcyon,L152149,Bette Davis Picnic Area,2022-08-23 08:50,1.0,34.1576843,-118.2978616,True,False,False,S117447739
+146,dowwoo,Downy Woodpecker,Dryobates pubescens,L461293,Polliwog Park,2022-08-23 08:42,2.0,33.8888713,-118.3853674,True,False,False,S117449001
+147,amekes,American Kestrel,Falco sparverius,L11671305,"Madrona Marsh Preserve, Torrance US-CA 33.82786, -118.34233",2022-08-23 08:42,1.0,33.827865,-118.342326,True,False,True,S117447527
+148,coshum,Costa's Hummingbird,Calypte costae,L9091524,"28903 Dargan Street, Agoura Hills, California, US (34.163, -118.756)",2022-08-23 08:28,1.0,34.1630938,-118.7559836,True,False,True,S117439878
+149,lobcur,Long-billed Curlew,Numenius americanus,L2999551,Playa del Rey Beach,2022-08-23 08:25,1.0,33.959237,-118.453238,True,False,False,S117440727
+150,surfbi,Surfbird,Calidris virgata,L2999551,Playa del Rey Beach,2022-08-23 08:25,2.0,33.959237,-118.453238,True,False,False,S117440727
+151,lessca,Lesser Scaup,Aythya affinis,L152149,Bette Davis Picnic Area,2022-08-23 08:15,1.0,34.1576843,-118.2978616,True,False,False,S117449453
+152,comgal1,Common Gallinule,Gallinula galeata,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 08:01,1.0,34.0870104,-117.8050125,True,False,False,S117455684
+153,wesgre,Western Grebe,Aechmophorus occidentalis,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 08:01,1.0,34.0870104,-117.8050125,True,False,False,S117455684
+154,forter,Forster's Tern,Sterna forsteri,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 08:01,1.0,34.0870104,-117.8050125,True,False,False,S117455684
+155,ribgul,Ring-billed Gull,Larus delawarensis,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 08:01,1.0,34.0870104,-117.8050125,True,False,False,S117455684
+156,clagre,Clark's Grebe,Aechmophorus clarkii,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 08:01,3.0,34.0870104,-117.8050125,True,False,False,S117455684
+157,belvir,Bell's Vireo,Vireo bellii,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 08:01,1.0,34.0870104,-117.8050125,True,False,False,S117455684
+158,vigswa,Violet-green Swallow,Tachycineta thalassina,L152134,Chilao--Visitor Center,2022-08-23 08:00,1.0,34.326745,-118.0047137,True,False,False,S117448461
+159,lawgol,Lawrence's Goldfinch,Spinus lawrencei,L152134,Chilao--Visitor Center,2022-08-23 08:00,2.0,34.326745,-118.0047137,True,False,False,S117448461
+160,ycnher,Yellow-crowned Night-Heron,Nyctanassa violacea,L4415612,Sim's Pond Bio Preserve,2022-08-23 07:56,1.0,33.7677248,-118.1178774,True,True,False,S117439845
+161,bkchum,Black-chinned Hummingbird,Archilochus alexandri,L6566735,"Backyard 2505 Canyon Vw, Pasadena US-CA (34.1810,-118.0979)",2022-08-23 07:33,2.0,34.180988,-118.097881,True,False,True,S117444003
+162,whtswi,White-throated Swift,Aeronautes saxatalis,L2198410,Griffith Park--Old Zoo trails,2022-08-23 07:00,47.0,34.1349978,-118.288132,True,False,False,S117472794
+163,bulori,Bullock's Oriole,Icterus bullockii,L2198410,Griffith Park--Old Zoo trails,2022-08-23 07:00,1.0,34.1349978,-118.288132,True,False,False,S117472794
+164,cacwre,Cactus Wren,Campylorhynchus brunneicapillus,L8186268,Juniper Hills--Farnese Ave.,2022-08-23 06:45,4.0,34.4720201,-117.9084337,True,False,True,S117447161
+165,bktspa,Black-throated Sparrow,Amphispiza bilineata,L8186268,Juniper Hills--Farnese Ave.,2022-08-23 06:45,8.0,34.4720201,-117.9084337,True,False,True,S117447161
+166,labwoo,Ladder-backed Woodpecker,Dryobates scalaris,L8186268,Juniper Hills--Farnese Ave.,2022-08-23 06:45,1.0,34.4720201,-117.9084337,True,False,True,S117447161
+167,wilfly,Willow Flycatcher,Empidonax traillii,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 06:10,1.0,34.0870104,-117.8050125,True,False,False,S117467516
+168,westan,Western Tanager,Piranga ludoviciana,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-23 06:10,1.0,34.0870104,-117.8050125,True,False,False,S117467516
+169,brnowl,Barn Owl,Tyto alba,L4828238,Long Beach Residence,2022-08-23 02:56,1.0,33.8203396,-118.0766755,True,False,True,S117426432
+170,amewig,American Wigeon,Mareca americana,L160935,Ballona Freshwater Marsh,2022-08-22 14:37,1.0,33.9701285,-118.4305573,True,False,False,S117410719
+171,rufhum,Rufous Hummingbird,Selasphorus rufus,L230931,Huntington Botanical Gardens,2022-08-22 13:21,2.0,34.1288701,-118.114462,True,False,False,S117408647
+172,phaino,Phainopepla,Phainopepla nitens,L305422,Malibu Creek SP,2022-08-22 11:30,4.0,34.0991117,-118.7157119,True,False,False,S117446161
+173,canwre,Canyon Wren,Catherpes mexicanus,L305422,Malibu Creek SP,2022-08-22 11:30,1.0,34.0991117,-118.7157119,True,False,False,S117446161
+174,blugrb1,Blue Grosbeak,Passerina caerulea,L305422,Malibu Creek SP,2022-08-22 11:30,2.0,34.0991117,-118.7157119,True,False,False,S117446161
+175,warvir,Warbling Vireo,Vireo gilvus,L1563110,Stephen Sorensen Park (Desert Avicaching),2022-08-22 10:42,1.0,34.6044954,-117.8294402,True,False,False,S117420835
+176,virwar,Virginia's Warbler,Leiothlypis virginiae,L1563110,Stephen Sorensen Park (Desert Avicaching),2022-08-22 10:36,1.0,34.6044954,-117.8294402,True,True,False,S117422410
+177,yebcha,Yellow-breasted Chat,Icteria virens,L152146,Kenneth Hahn SRA,2022-08-22 10:36,1.0,34.00861,-118.36533,True,False,False,S117410322
+178,verfly,Vermilion Flycatcher,Pyrocephalus rubinus,L152136,Peck Rd. Water Conservation Park,2022-08-22 07:08,1.0,34.10053,-118.01333,True,False,False,S117399466
+179,gnwtea,Green-winged Teal,Anas crecca,L152136,Peck Rd. Water Conservation Park,2022-08-22 07:08,1.0,34.10053,-118.01333,True,False,False,S117399466
+180,norsho,Northern Shoveler,Spatula clypeata,L152136,Peck Rd. Water Conservation Park,2022-08-22 07:08,2.0,34.10053,-118.01333,True,False,False,S117399466
+181,treswa,Tree Swallow,Tachycineta bicolor,L152136,Peck Rd. Water Conservation Park,2022-08-22 07:08,1.0,34.10053,-118.01333,True,False,False,S117399466
+182,solsan,Solitary Sandpiper,Tringa solitaria,L275227,Piute Ponds (permit required),2022-08-22 06:58,1.0,34.7901193,-118.1181776,True,False,False,S117398091
+183,marwre,Marsh Wren,Cistothorus palustris,L275227,Piute Ponds (permit required),2022-08-22 06:58,4.0,34.7901193,-118.1181776,True,False,False,S117398091
+184,norhar2,Northern Harrier,Circus hudsonius,L275227,Piute Ponds (permit required),2022-08-22 06:58,1.0,34.7901193,-118.1181776,True,False,False,S117398091
+185,greroa,Greater Roadrunner,Geococcyx californianus,L275227,Piute Ponds (permit required),2022-08-22 06:58,1.0,34.7901193,-118.1181776,True,False,False,S117398091
+186,sora,Sora,Porzana carolina,L275227,Piute Ponds (permit required),2022-08-22 06:58,1.0,34.7901193,-118.1181776,True,False,False,S117398091
+187,blkter,Black Tern,Chlidonias niger,L275227,Piute Ponds (permit required),2022-08-22 06:58,1.0,34.7901193,-118.1181776,True,False,False,S117398091
+188,eargre,Eared Grebe,Podiceps nigricollis,L275227,Piute Ponds (permit required),2022-08-22 06:58,2.0,34.7901193,-118.1181776,True,False,False,S117398091
+189,virrai,Virginia Rail,Rallus limicola,L275227,Piute Ponds (permit required),2022-08-22 06:40,1.0,34.7901193,-118.1181776,True,False,False,S117403092
+190,redhea,Redhead,Aythya americana,L275227,Piute Ponds (permit required),2022-08-22 06:40,3.0,34.7901193,-118.1181776,True,False,False,S117403092
+191,wesmea,Western Meadowlark,Sturnella neglecta,L275227,Piute Ponds (permit required),2022-08-22 06:40,1.0,34.7901193,-118.1181776,True,False,False,S117403092
+192,wilsni1,Wilson's Snipe,Gallinago delicata,L275227,Piute Ponds (permit required),2022-08-22 06:36,2.0,34.7901193,-118.1181776,True,False,False,S117405161
+193,yehbla,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,L275227,Piute Ponds (permit required),2022-08-22 06:36,1.0,34.7901193,-118.1181776,True,False,False,S117405161
+194,purfin,Purple Finch,Haemorhous purpureus,L1082891,1. At Home,2022-08-22 06:00,5.0,34.1879765,-118.1313837,True,False,True,S117415400
+195,wilsap,Williamson's Sapsucker,Sphyrapicus thyroideus,L746089,Angeles NF--Throop Peak/Dawson Saddle Trail,2022-08-21 16:07,1.0,34.3592163,-117.8049095,True,False,False,S117366062
+196,clanut,Clark's Nutcracker,Nucifraga columbiana,L746089,Angeles NF--Throop Peak/Dawson Saddle Trail,2022-08-21 16:07,2.0,34.3592163,-117.8049095,True,False,False,S117366062
+197,whtkit,White-tailed Kite,Elanus leucurus,L1552663,Ken Malloy Harbor Regional Park,2022-08-21 15:46,1.0,33.7874582,-118.2939363,True,False,False,S117364633
+198,cedwax,Cedar Waxwing,Bombycilla cedrorum,L280831,Santa Catalina Island--Avalon area,2022-08-21 15:25,1.0,33.3424927,-118.3267611,True,True,False,S117358174
+199,leater1,Least Tern,Sternula antillarum,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-21 14:51,20.0,34.0333857,-118.6822987,True,False,False,S117357435
+200,redcro,Red Crossbill,Loxia curvirostra,L746089,Angeles NF--Throop Peak/Dawson Saddle Trail,2022-08-21 14:47,2.0,34.3592163,-117.8049095,True,False,False,S117367400
+201,semsan,Semipalmated Sandpiper,Calidris pusilla,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-21 13:30,1.0,34.0333857,-118.6822987,True,True,False,S117367084
+202,rempar,Red-masked Parakeet,Psittacara erythrogenys,L20638183,"801–899 Burleigh Dr, Pasadena US-CA (34.1294,-118.1736)",2022-08-21 13:00,4.0,34.129426,-118.173633,True,False,True,S117371719
+203,chispa,Chipping Sparrow,Spizella passerina,L3646117,Whittier Narrows Soccer Fields,2022-08-21 11:50,2.0,34.0514949,-118.0690169,True,False,False,S117369770
+204,buffle,Bufflehead,Bucephala albeola,L275227,Piute Ponds (permit required),2022-08-21 09:50,1.0,34.7901193,-118.1181776,True,False,False,S117349215
+205,pelcor,Pelagic Cormorant,Urile pelagicus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-21 09:36,1.0,34.0333857,-118.6822987,True,False,False,S117355763
+206,orabis1,Northern Red Bishop,Euplectes franciscanus,L194688,Sepulveda Basin--East of Woodley Ave,2022-08-21 09:21,1.0,34.1767221,-118.4737308,True,False,False,S117343769
+207,brespa,Brewer's Sparrow,Spizella breweri,L1563110,Stephen Sorensen Park (Desert Avicaching),2022-08-21 09:19,2.0,34.6044954,-117.8294402,True,False,False,S117338061
+208,bkhpar,Nanday Parakeet,Aratinga nenday,L659718,Bonsall/Zuma Canyon,2022-08-21 08:57,5.0,34.0314652,-118.8122463,True,False,False,S117339174
+209,gwfgoo,Greater White-fronted Goose,Anser albifrons,L382781,Legg Lake,2022-08-21 07:44,1.0,34.031892,-118.060112,True,False,False,S117336393
+210,robgro,Rose-breasted Grosbeak,Pheucticus ludovicianus,L769042,Rancho Sierra Golf Club (Private),2022-08-21 07:34,1.0,34.7417183,-118.0236983,True,True,False,S117330570
+211,dusfly,Dusky Flycatcher,Empidonax oberholseri,L20625219,Santa Clara Truck Trail,2022-08-20 19:20,1.0,34.3504532,-118.3952062,True,False,True,S117307143
+212,blkski,Black Skimmer,Rynchops niger,L4398071,"San Gabriel River Mouth, middle jetty (Los Angeles County)",2022-08-20 10:36,4.0,33.7439778,-118.1153816,True,False,False,S117280276
+213,pifshe,Pink-footed Shearwater,Ardenna creatopus,L966918,"Santa Catalina Channel (LA Co., offshore species only)",2022-08-20 10:31,12.0,33.552977,-118.295209,True,False,False,S117299317
+214,sabgul,Sabine's Gull,Xema sabini,L966918,"Santa Catalina Channel (LA Co., offshore species only)",2022-08-20 10:31,1.0,33.552977,-118.295209,True,False,False,S117299317
+215,bkspet,Black Storm-Petrel,Hydrobates melania,L966918,"Santa Catalina Channel (LA Co., offshore species only)",2022-08-20 10:31,6.0,33.552977,-118.295209,True,False,False,S117299317
+216,laaphe1,Lady Amherst's Pheasant,Chrysolophus amherstiae,L614590,El Dorado Regional Park--Area 1,2022-08-20 10:02,1.0,33.8068589,-118.0870092,True,True,False,S117281743
+217,wantat1,Wandering Tattler,Tringa incana,L2999612,Playa del Rey/Ballona area,2022-08-20 09:45,4.0,33.9634551,-118.4519934,True,False,False,S117277398
+218,comter,Common Tern,Sterna hirundo,L20082159,Avalon Bank,2022-08-20 09:17,1.0,33.273922,-118.239938,True,False,True,S117299276
+219,macwar,MacGillivray's Warbler,Geothlypis tolmiei,L1563110,Stephen Sorensen Park (Desert Avicaching),2022-08-20 07:32,1.0,34.6044954,-117.8294402,True,False,False,S117273524
+220,parjae,Parasitic Jaeger,Stercorarius parasiticus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-20 06:40,1.0,34.0333857,-118.6822987,True,False,False,S117421180
+221,calgna,California Gnatcatcher,Polioptila californica,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,2022-08-20 06:20,1.0,34.0870104,-117.8050125,True,True,False,S117290402
+222,lesnig,Lesser Nighthawk,Chordeiles acutipennis,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-20 06:02,1.0,34.0333857,-118.6822987,True,True,False,S117268206
+223,rocwre,Rock Wren,Salpinctes obsoletus,L4335900,Terranea Trail and Seawatch,2022-08-19 14:56,2.0,33.7392651,-118.4019789,True,True,False,S117232080
+224,naswar,Nashville Warbler,Leiothlypis ruficapilla,L548640,San Gabriel Mtns.--Big Pines,2022-08-19 12:30,1.0,34.3796417,-117.6917267,True,False,False,S117228048
+225,casfin,Cassin's Finch,Haemorhous cassinii,L548640,San Gabriel Mtns.--Big Pines,2022-08-19 12:30,4.0,34.3796417,-117.6917267,True,False,False,S117228048
+226,rebnut,Red-breasted Nuthatch,Sitta canadensis,L870636,UCLA--Botanical Garden,2022-08-19 10:00,,34.065281,-118.4413934,True,False,False,S117305360
+227,sursco,Surf Scoter,Melanitta perspicillata,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-19 08:52,5.0,34.0333857,-118.6822987,True,False,False,S117219689
+228,pomjae,Pomarine Jaeger,Stercorarius pomarinus,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-19 08:52,2.0,34.0333857,-118.6822987,True,False,False,S117219689
+229,wooduc,Wood Duck,Aix sponsa,L9763951,Los Angeles River -- Marsh Park vic,2022-08-19 08:50,1.0,34.1078008,-118.2467476,True,False,True,S117224728
+230,indbun,Indigo Bunting,Passerina cyanea,L152149,Bette Davis Picnic Area,2022-08-19 08:15,1.0,34.1576843,-118.2978616,True,True,False,S117216695
+231,baleag,Bald Eagle,Haliaeetus leucocephalus,L1608213,San Gabriel Canyon Rd.--below East Fork Rd.,2022-08-19 08:00,1.0,34.2173056,-117.857784,True,False,False,S117217594
+232,norpin,Northern Pintail,Anas acuta,L597658,Malibu Lagoon--State Beach including Lagoon,2022-08-18 10:01,1.0,34.0333857,-118.6822987,True,False,False,S117245112
