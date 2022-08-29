@@ -12,6 +12,8 @@ A data pipeline is built that...
 ### **The Report**
 The end result is a data report of the different types of birds seen in the LA region on the current day. It uses a combination of pymysql, pandas, and plotly to query for coordinates, (bird_name, frequency), and to plot these coordinates on a horizontal bar graph.
 
+Daily data extractions are also stored in a second MySQL table. This table contains a collection of all daily data extracted and will be used to analyze weekly, monthly, and/or yearly bird data.
+
 ## Screenshot
 ![Alt Text](https://media.giphy.com/media/R8T0Cw1KD6nxByOkZJ/giphy.gif)
 
@@ -21,4 +23,4 @@ The end result is a data report of the different types of birds seen in the LA r
 - Make data visualization more aesthetically pleasing and interactive.
 - Add bird image and information when hovering over each bird in the bar chart.
 - Use Docker and Airflow to run the project so that it emails the data report to the user on a daily basis.
-- In addition to daily reports, also create monthly reports.
+- In addition to daily reports, also create weekly/monthly/yearly reports.
