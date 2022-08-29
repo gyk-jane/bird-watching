@@ -33,7 +33,7 @@ def to_bucket(filename, bucket_name):
     print(statement)
     
 
-def connect_to_tables():
+def connect_to_db():
     """Connects to Aurora MySQL ebirddata database.
     
     Returns (Cursor): connected cursor to ebirddata
@@ -57,7 +57,7 @@ def connect_to_tables():
     
     return cursor   
 
-
+# 
 def to_load(filename, bucket_name, cursor, table_name):
     """Loads csv file to a specified table"""
     # SQL command to load the csv file to the birds table

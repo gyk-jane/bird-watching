@@ -10,7 +10,9 @@ from transforms import transform
 from loads import connect_load, tables
 
 def etl_main():
-    # Extract
+    """Runs the ETL process
+      
+    """
     location = "Los Angeles, California"
     lat_long = region.get_lat_long(location)
     region_code = region.get_region_code(lat_long[0], lat_long[1])
@@ -31,12 +33,10 @@ def etl_main():
     # Load
     bucket_name = "birds-around-my-area"
     connect_load.to_bucket(filename, bucket_name)
-    cursor = connect_load.connect_to_tables()
 
+    cursor = connect_load.connect_to_db()
     tables.to_daily_table(filename, bucket_name, cursor)
     tables.to_all_birds_table(cursor)
 
     cursor.close()
     print("ETL process completed.")
-
-# etl_main()
