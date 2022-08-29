@@ -44,8 +44,7 @@ def get_data(regionCode, frequency):
     """
     # Get API_KEY located in config.ini
     config = configparser.ConfigParser()
-    # DELETEEEE LATER!!!!!!
-    config_file_path = r'/Users/janekim/Developer/bird proj/birds/config.ini'
+    config_file_path = r'/birds/config.ini'
     config.read(config_file_path)
     API_KEY = config.get('ebird', 'API_KEY')
         
