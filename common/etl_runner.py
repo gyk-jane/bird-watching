@@ -10,9 +10,6 @@ from transforms import transform
 from loads import connect_load, tables
 
 def etl_main():
-    """Runs the ETL process
-      
-    """
     location = "Los Angeles, California"
     lat_long = region.get_lat_long(location)
     region_code = region.get_region_code(lat_long[0], lat_long[1])
