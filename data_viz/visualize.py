@@ -1,6 +1,6 @@
 """Visualizes bird data using a horizontal bar chart.
 
-The horizontal bar chart contains unique birds, ordered from most seen to least seen. Hovering over each bar should show its bird information and picture pulled from the Wikipedia API.
+The horizontal bar chart contains unique birds, ordered from most seen to least seen. Hovering over each bar should show its bird species name and number of sightings.
 
 """
 import sys
@@ -66,9 +66,4 @@ def plot(cursor, x, y):
     spec = graph_spec(x, y)
     fig = go.Figure(spec['data'], spec['layout'])
     fig.show()
-    
-cursor = connect_load.connect_to_db()
-x, y = get_xy(cursor)
-spec = graph_spec(x, y)
-fig = go.Figure(spec['data'], spec['layout'])
-fig.show()
+  
