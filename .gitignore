@@ -1,4 +1,5 @@
 airflow-docker
-birds/bird_watching.ipynb.ipynb_checkpoints
+birds/bird_watching.ipynb
+.ipynb_checkpoints
 config.ini
 bird_env
