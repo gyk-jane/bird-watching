@@ -24,4 +24,4 @@ Daily data extractions are also stored in a second MySQL table. This table conta
 - Add bird image and information when hovering over each bird in the bar chart.
 - Use Docker and Airflow to run the project so that it emails the data report to the user on a daily basis.
 - In addition to daily reports, also create weekly/monthly/yearly reports.
-- Make user be allowed to search for different regions other than Los Angeles.
+- Allow user to search for different regions other than Los Angeles.
