@@ -7,7 +7,7 @@ A data pipeline is built that...
 
 1. **extracts** data from the [eBird API](https://documenter.getpostman.com/view/664302/S1ENwy59),
 2. **transforms** the data through basic cleansing and converts the pulled data to a csv file, and
-3. **loads** the csv file to an AWS S3 bucket an Aurora MySQL database.
+3. **loads** the csv file to an AWS S3 bucket and Aurora MySQL database.
 
 ### **The Report**
 The end result is a data report of the different types of birds seen in the LA region on the current day. It uses a combination of pymysql, pandas, and plotly to query for coordinates, (bird_name, frequency), and to plot these coordinates on a horizontal bar graph.
