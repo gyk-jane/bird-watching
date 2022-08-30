@@ -1,4 +1,4 @@
-# Birds in the Area 🕊
+# Bird Watching 🕊
 Extracts daily bird data in the Los Angeles region to create a data report of birds seen and recorded by users of [Merlin Bird ID](https://merlin.allaboutbirds.org)
 
 ## How It's Done
